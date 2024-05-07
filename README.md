@@ -6,3 +6,5 @@ For this, we need to install requests and BeautifulSoup modules.
 pip install requests
 
 pip install beautifulsoup4
+
+As an example I took the URL as "https://www.tutorialspoint.com/beautiful_soup/beautiful_soup_quick_guide.htm" and the output for this URL is given in the web_content.csv file.
